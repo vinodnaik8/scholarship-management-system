@@ -44,7 +44,7 @@ The system features **Aadhaar-based login authentication**, **role-based access*
 | **Backend** | PHP |
 | **Database** | MySQL |
 | **Email Service** | PHPMailer |
-| **Authentication** | Aadhaar-based login (UIDAI integration) |
+| **Authentication** | Aadhaar-based login |
 | **Version Control** | Git & GitHub |
 
 ---
