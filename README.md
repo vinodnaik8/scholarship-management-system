@@ -1,4 +1,4 @@
-# 🎓 Advanced Scholarship Management System (Aadhaar Login)
+# Scholarship Management System (Aadhaar Login)
 
 A user-friendly and secure **Scholarship Management System** built using **PHP, HTML, CSS, JavaScript, and MySQL**.  
 The system features **Aadhaar-based login authentication**, **role-based access** (Admin & Student), and **automated email notifications** powered by **PHPMailer**.
