@@ -111,6 +111,3 @@ http://localhost/scholarship-management-system/
 📧 vinodnaik00548@gmail.com  
 🌐 [https://github.com/vinodnaik8](https://github.com/vinodnaik8)
 
----
-
-#  Would you like me to also generate a **`.gitignore`** and a short **`LICENSE`** file to go with it (so your repo looks professional and secure)?
